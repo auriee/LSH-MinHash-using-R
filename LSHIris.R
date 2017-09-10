@@ -1,3 +1,4 @@
+library(mlbench)
 library(igraph)
 library(flexclust)
 mydata1 = iris[,-5]
